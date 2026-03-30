@@ -1,4 +1,13 @@
-## Hi there 👋
+# 💫 About Me:
+Computer Science student focused on cybersecurity, reverse engineering, and offensive security. Certified eJPT, with hands-on experience in building practical security projects. Continuously learning, experimenting, and applying technical skills to develop effective solutions for real-world cybersecurity challenges and evolving threat landscapes.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rhythm-niraula-169830244/) 
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **rhythmniraula/rhythmniraula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
