@@ -17,7 +17,9 @@ Computer Science student focused on cybersecurity, reverse engineering, and offe
 ![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=hydra&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<a href="your_link">
+  <img src="./images/ghidra.svg" width="30" height="30" alt="Ghidra"><h3 color="#FF0000">GHIDRA</h3>
+</a>
 <!--
 **rhythmniraula/rhythmniraula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
