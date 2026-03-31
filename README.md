@@ -10,11 +10,11 @@ Computer Science student focused on cybersecurity, reverse engineering, and offe
 ![Nmap](https://img.shields.io/badge/Nmap-2B79C2?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-005EAA?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-FF8C00?style=for-the-badge&logo=nikto&logoColor=white)
-![Nessus](https://img.shields.io/badge/Ghidra-800000?style=for-the-badge&logo=ghidra&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-1679A7?style=for-the-badge&logo=nikto&logoColor=white)
+![Nessus](https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=ghidra&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Nessus-005EAA?style=for-the-badge&logo=nessus&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=johntheripper&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-000080?style=for-the-badge&logo=hydra&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-008000?style=for-the-badge&logo=hydra&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
